@@ -21,4 +21,4 @@
  
 </div><br/>
 
- ### Apaixonado por tecnologia, buscando desenvolver um futuro melhor.
+ ### Apaixonado por tecnologia.
