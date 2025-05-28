@@ -1,38 +1,57 @@
-# Olá! Seja bem-vindo. 
+# 👋 Olá, eu sou Gabriel!
 
-### Contatos:
+🛠️ Desenvolvedor apaixonado por tecnologia, com foco em criar coisas legais e únicas.
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/gabrielcalmd)
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](Sr.Fortress@proton.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-c-de-almeida-a94a83238?utm_source=share&utm_campaing=share_via&utm_content+profile&utm_medium+android_app)
+---
 
-### Dados do Perfil:
+## 🚀 Sobre mim
+
+- 💻 Atuo com desenvolvimento web, APIs e soluções fullstack.
+- ⚡ Gosto de aprender novas tecnologias e compartilhar conhecimento.
+- 🌐 Estou aberto a colaborações e novos desafios.
+  
+---
+
+## 🔥 Tecnologias & Ferramentas que uso
+
+<div>
+  <img alt="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />  
+  <img alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
+  <img alt="Eclipse" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" /> 
+  <img alt="VSCode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
+</div>
+
+---
+
+## 📈 Minhas Estatísticas do GitHub
+
 ![Meu GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielCAlmd&show_icons=true&theme=radical)
-
 <div style="display: inline_block"><br/>
   <img align="center alt="html5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCAlmd&theme=blue-green" />
 </div><br/>
 
-### Projetos em Grupo que participei:
-[![GirHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ProjetoSurpresa)
+---
 
-## Tecnologias que uso:
-#### Linguagens (Programação, Marcação, Estilização):
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+## 📫 Como me encontrar
 
-#### Banco de Dados:
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/seunome)](https://www.linkedin.com/in/gabriel-c-de-almeida](https://www.linkedin.com/in/gabriel-c-de-almeida-a94a83238?utm_source=share&utm_campaing=share_via&utm_content+profile&utm_medium+android_app))
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/seunome)](https://twitter.com/seunome)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/seunome)](https://instagram.com/seunome)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:seuemail@email.com)](mailto:seuemail@email.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/seunome)](https://t.me/gabrielcalmd)
+[![ProtonMail](https://img.shields.io/badge/-ProtonMail-8a93a8?style=flat-square&logo=protonmail&logoColor=white&link=mailto:seuemail@protonmail.com)](mailto:Sr.Fortress@proton.me)
 
-#### IDE e Editores:
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![NotePad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+---
 
-<div style="display: inline_block"><br/>
- 
-</div><br/>
+## 📝 Projetos em destaque:
 
- ### Apaixonado por tecnologia.
+> ### 🚀 Projeto Final da Faculdade  
+> Site em PHP com frontend, backend e banco de dados.  
+> 🔗 [GitHub]([(https://github.com/ProjetoSurpresa)])
+>
+> ---
