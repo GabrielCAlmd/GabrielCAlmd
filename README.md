@@ -52,6 +52,6 @@
 
 > ### 🚀 Projeto Final da Faculdade  
 > Site em PHP com frontend, backend e banco de dados.  
-> 🔗 [GitHub]([(https://github.com/ProjetoSurpresa)])
+> 🔗 [GitHub](https://github.com/ProjetoSurpresa)
 >
 > ---
