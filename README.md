@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mim
 
-- 💻 Atuo com desenvolvimento web, APIs e soluções fullstack.
+- 💻 Atuo com desenvolvimento frontend e/ou backend, APIs e soluções fullstack.
 - ⚡ Gosto de aprender novas tecnologias e compartilhar conhecimento.
 - 🌐 Estou aberto a colaborações e novos desafios.
   
