@@ -51,12 +51,12 @@
 ## 📝 Projetos em destaque:
 
 > ### 🚀 Projeto Final da Faculdade  
-> Site em PHP com frontend, backend e banco de dados.  
+> Site em HTML e CSS no frontend, PHP no backend e banco de dados.  
 > 🔗 [GitHub](https://github.com/ProjetoSurpresa)
 >
 > ---
 >> ### 🚀 Dashboard Financeiro  
-> Site em PHP com frontend, backend e banco de dados.  
+> Software em Python no Backend, React + Tailwind + Vite no Frontend, consumo de API.  
 > 🔗 [GitHub](https://github.com/GabrielCAlmd/Dashboard-Financeiro)
 >
 > ---
