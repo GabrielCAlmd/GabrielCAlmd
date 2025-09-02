@@ -55,3 +55,8 @@
 > 🔗 [GitHub](https://github.com/ProjetoSurpresa)
 >
 > ---
+>> ### 🚀 Dashboard Financeiro  
+> Site em PHP com frontend, backend e banco de dados.  
+> 🔗 [GitHub](https://github.com/GabrielCAlmd/Dashboard-Financeiro)
+>
+> ---
