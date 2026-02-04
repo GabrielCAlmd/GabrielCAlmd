@@ -28,15 +28,6 @@
 
 ---
 
-## 📈 Minhas Estatísticas do GitHub
-
-![Meu GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielCAlmd&show_icons=true&theme=radical)
-<div style="display: inline_block"><br/>
-  <img align="center alt="html5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCAlmd&theme=blue-green" />
-</div><br/>
-
----
-
 ## 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/seunome)](https://www.linkedin.com/in/gabriel-c-de-almeida](https://www.linkedin.com/in/gabriel-c-de-almeida-a94a83238?utm_source=share&utm_campaing=share_via&utm_content+profile&utm_medium+android_app))
