@@ -12,19 +12,24 @@
   
 ---
 
-## 🔥 Tecnologias & Ferramentas que uso
+## 🔧 Tecnologias & Ferramentas que uso
 
-<div>
-  <img alt="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />  
-  <img alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
-  <img alt="Eclipse" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" /> 
-  <img alt="VSCode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
-</div>
+ ![HTML](https://img.shields.io/badge/Html-000?style=for-the-badge&logo=html5)
+ ![CSS](https://img.shields.io/badge/Css-000?style=for-the-badge&logo=css3)
+ ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+ ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+ ![Node.js](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js)
+ ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+ ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
+ ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+ ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+ 
+---
+
+## 🔥 Meus Status 
+
+![Gabriel Almeida's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielCAlmd&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCAlmeida&theme=dark&layout=donut)](https://github.com/GabrielCAlmeida/github-readme-stats)
 
 ---
 
@@ -40,7 +45,6 @@
 ---
 
 ## 📝 Projetos em destaque:
-
 > ### 🚀 Projeto Final da Faculdade  
 > Site em HTML e CSS no frontend, PHP no backend e banco de dados.  
 > 🔗 [GitHub](https://github.com/ProjetoSurpresa)
